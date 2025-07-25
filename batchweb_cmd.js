@@ -557,6 +557,6 @@ Ethernet adapter Ethernet:
     }
   };
   print(`Microsoft Windows [Version 10.0.19045.2965]`);
-  print(`Running under BatchWeb Enviroment (v1.0)`);
+  print(`Running under BatchWeb Environment (v1.0)`);
   addPrompt();
 });
