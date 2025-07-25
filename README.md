@@ -1,4 +1,4 @@
-# BatchWeb Enviroment
+# BatchWeb Environment
 The recreation of "cmd.exe" in Javascript
 
 Commands list:
